@@ -1,0 +1,52 @@
+<svg height="782" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="782" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-19 02:15:50 +0000   290872 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 02:15:50 +0000     1770 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 02:15:50 +0000     4735 bytes  benchmarks/benchmark.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 02:15:50 +0000     1036 bytes  lib/diff/block.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 02:15:50 +0000    10996 bytes  lib/diff/callbacks.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 02:15:50 +0000     2696 bytes  lib/diff/change.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 02:15:50 +0000    32720 bytes  lib/diff/diff.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 02:15:50 +0000     9323 bytes  lib/diff/hunk.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 02:15:50 +0000      722 bytes  lib/git/actor.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 02:15:50 +0000    10385 bytes  lib/git/binary_parser.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 02:15:50 +0000     2663 bytes  lib/git/blame.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 02:15:50 +0000      798 bytes  lib/git/blame_line.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 02:15:50 +0000     5408 bytes  lib/git/blob.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-19 02:15:50 +0000    12187 bytes  lib/git/commit.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-19 02:15:50 +0000     4197 bytes  lib/git/commit_stats.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-19 02:15:50 +0000     1336 bytes  lib/git/config.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-19 02:15:50 +0000     3525 bytes  lib/git/diff.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-19 02:15:50 +0000     8158 bytes  lib/git/file_index.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-19 02:15:50 +0000     2275 bytes  lib/git/file_window.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-19 02:15:50 +0000    30104 bytes  lib/git/git.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-19 02:15:50 +0000     4862 bytes  lib/git/git_file_operations.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-19 02:15:50 +0000     5585 bytes  lib/git/git_index.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-19 02:15:50 +0000      747 bytes  lib/git/git_object.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-19 02:15:50 +0000     1925 bytes  lib/git/head.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-19 02:15:50 +0000     1034 bytes  lib/git/index.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-19 02:15:50 +0000     2127 bytes  lib/git/internal/directory_entry.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-19 02:15:50 +0000      797 bytes  lib/git/internal/git_blob.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-19 02:15:50 +0000     3167 bytes  lib/git/internal/git_commit.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-19 02:15:50 +0000     2678 bytes  lib/git/internal/git_tag.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-19 02:15:50 +0000     2551 bytes  lib/git/internal/git_tree.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-19 02:15:50 +0000     4867 bytes  lib/git/loose_storage.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-19 02:15:50 +0000     1490 bytes  lib/git/merge.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-19 02:15:50 +0000    13063 bytes  lib/git/pack_storage.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-19 02:15:50 +0000     1025 bytes  lib/git/raw_object.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-19 02:15:50 +0000       37 bytes  lib/git/ref.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-19 02:15:50 +0000     1261 bytes  lib/git/remote.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-19 02:15:50 +0000    16102 bytes  lib/git/repo.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-19 02:15:50 +0000    24107 bytes  lib/git/repository.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-19 02:15:50 +0000     5488 bytes  lib/git/status.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-19 02:15:50 +0000     1635 bytes  lib/git/status_file.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-19 02:15:50 +0000     2980 bytes  lib/git/sub_module.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-19 02:15:50 +0000     1491 bytes  lib/git/tag.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-19 02:15:50 +0000     4923 bytes  lib/git/tree.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-19 02:15:50 +0000     1689 bytes  lib/git/user_info.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-19 02:15:50 +0000     3915 bytes  lib/sprintf/sprintf.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-19 02:15:50 +0000    32274 bytes  lib/zlib/zlib.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-19 02:15:50 +0000     4018 bytes  package.json</tspan>
+</text>
+</svg>
